@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-Intermediate-blue?style=for-the-badge&logo=r&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rockkars&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhash&show_icons=true)
 
 connect with me:- subhashfra@gmail.com
 
