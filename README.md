@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm (rohith)
+I'm (sreekar)
 <!--
 **rockkars/rockkars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohiht&show_icons=true)
 
-connect with me:- rohihtfra@gmail.com
+connect with me:- sreekarmuthyala@gmail.com
 
 
 
